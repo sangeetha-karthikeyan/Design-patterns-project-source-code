@@ -8,12 +8,6 @@ REQUIREMENTS
 - JDK 8 or later
 - VS Code with the Extension Pack for Java (optional, but useful)
 
-RUN IN VS CODE
-1. Extract this ZIP file.
-2. Open the extracted SmartHealthcare_Java_Project folder in VS Code.
-3. Open Main.java.
-4. Run the main() method, or use the terminal commands below.
-
 RUN IN TERMINAL
   javac Main.java
   java Main
